@@ -1,2 +1,5 @@
-package tests;public class TestClass {
+package tests;
+
+public class TestClass {
+
 }

@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="RandomAppUA_AT" />
-        <module name="GenericTAFramework" />
+        <module name="Ilija_AT" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ilija_AT" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
